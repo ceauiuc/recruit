@@ -1,2 +1,4 @@
 tools used for recruitment
-* find_koreans - find korean students from given student list in csv format
+* candidates - find korean students from given student list
+  * list should be tab-delimited
+  * non-data, such as header row, should be removed
